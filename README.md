@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 opendocman
 ==========
 
@@ -13,3 +14,7 @@ Features
     * Option to send new and updated files through review process
     * Installs on most web servers with PHP
     * Set up a reviewal process for all new files
+=======
+# docsManager
+This is is document management systems 
+>>>>>>> 745819d14c10e15ec8af97d09ffef55f52f5e3f2
